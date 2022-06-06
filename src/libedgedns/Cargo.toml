@@ -24,7 +24,7 @@ jumphash = "*"
 lazy_static = "*"
 log = "*"
 net2 = "*"
-nix = "~0.8 "
+nix = "~0.20"
 parking_lot = "*"
 privdrop = "*"
 prometheus = {git = "https://github.com/pingcap/rust-prometheus", default-features = false}
